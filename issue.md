@@ -1,4 +1,4 @@
-## 记录使用Spring Data Jpa是遇到的issue
+## 记录使用Spring Data Jpa时遇到的issue
 #### 1.Spring data jpa注解@Query不能和Pageable分页一起用
 ######	原因：
 ######		SpringJPA中存在bug，只能用特殊方式去解决，寄希望jpa能早日修复
